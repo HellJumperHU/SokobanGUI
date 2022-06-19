@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+F:\GitHubRepo\Project1\Project1\MyForm1.h(23,1): warning C4102: 'HomePage': unreferenced label
+F:\GitHubRepo\Project1\Project1\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+F:\GitHubRepo\Project1\Project1\MyForm1.h(23,1): warning C4102: 'HomePage': unreferenced label
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> F:\GitHubRepo\Project1\Debug\Project1.exe
